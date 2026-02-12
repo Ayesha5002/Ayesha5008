@@ -17,7 +17,7 @@
 🔭 I focus on **cross-platform applications**, **clean architecture**, and **modern UI/UX**.  
 🌱 Currently exploring **Databases, Firebase, and Cloud Integrations**.  
 💼 Available for freelance & full-time opportunities.  
-📫 Reach me at: **ayesha208razzq@gmail.com**  
+📫 Reach me at: **ayesha208razzaq@gmail.com**  
 ⚡ Fun fact: *Code + Coffee = Perfect Combo ☕*  
 
 ---
