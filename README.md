@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" src="https://github.com/Ayesha5008/Ayesha5008/blob/main/banner.png">
+<img align="center" alt="coding" width="1000" src="https://github.com/Ayesha5002/Ayesha5008/blob/main/banner.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Ayesha Razzaq</h1>
 
